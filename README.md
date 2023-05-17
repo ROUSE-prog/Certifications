@@ -1,6 +1,6 @@
 # Certifications
 
-These certification below display my hard work and acheivements over the years as a software developer.
+These certification below display my hard work and acheivements over the years as a software developer!
 <table>
     
 <td> 
